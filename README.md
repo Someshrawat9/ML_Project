@@ -63,4 +63,3 @@ cd ML_Project
 pip install -r requirements.txt
 jupyter notebook notebooks/EDA_Student_Performance.ipynb
 ```
-```
